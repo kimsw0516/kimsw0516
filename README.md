@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### SSAFY에서 열공중
 <!--
 **kimsw0516/kimsw0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
